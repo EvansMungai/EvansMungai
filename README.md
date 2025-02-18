@@ -63,8 +63,5 @@
   
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvansMungai&theme=vue&days=30&height=400" height="400" alt="Contribution Graph" />
-</div>
 
 ###
