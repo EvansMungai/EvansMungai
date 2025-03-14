@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Proven track record in developing scalable Web APIs and Web applications.<br>📚 I'm currently learning mobile development in Android and DevOPS in the Azure platform<br>🎯 Goals: Become a proficient engineer in the fintech and health industry.</p>
+<p align="left">✨ Proven track record in developing scalable Web APIs and Web applications.<br>📚 I'm currently learning mobile development in Android and DevOPS<br>🎯 Goals: Become a proficient engineer in the fintech and health industry.</p>
 
 ###
 
