@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Proven track record in developing scalable Web APIs and Web applications.<br>📚 I'm currently learning DevOPS<br>🎯 Goals: Become a proficient engineer in the fintech and health industry.</p>
+<p align="left">✨ Proven track record in developing scalable Web APIs and Web applications.<br>📚 I'm currently learning DevOPS<br>🎯 Goals: leveraging engineering to drive transformative change in the fintech and health sectors.</p>
 
 ###
 
