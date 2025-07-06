@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h2 align="left">🛠 Languages and Tools</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" />&nbsp;
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h3>
 
 ###
 
