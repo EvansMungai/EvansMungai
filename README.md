@@ -14,8 +14,6 @@
 
 ###
 
-<hr>
-
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <p align="left">
@@ -30,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
-<hr>
+###
 
 <h3 align="left">🔥   My Stats :</h3>
 
