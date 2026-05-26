@@ -31,7 +31,7 @@
 ### 
 <h2 align="left">Connect with me</h2>
 <div align="left">
-  <a href="www.linkedin.com/in/evans-mungai-1811942ab">
+  <a href="https://linkedin.com/in/evans-mungai-1811942ab">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="40" />
   </a>
 </div>
