@@ -28,6 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" />
 </p>
 
+### 
+<h2 align="left">Connect with me</h2>
+<div align="center">
+  <a href="www.linkedin.com/in/evans-mungai-1811942ab">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" width="40" />
+  </a>
+</div>
+
 <!--
 ###
 
