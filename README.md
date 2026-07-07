@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">✨Specializing in architecting scalable enterprise backend systems and high‑performance web applications. <br>
-🔐 Expertise in designing secure RESTful APIs, implementing clean architecture and delivering resilient end‑to‑end software solutions. <br>
+<p align="left">✨ Specialized in implementing scalable enterprise backend systems and high‑performance web applications. <br>
 ⚙️ Strong foundation in enterprise .NET and ASP.NET Core, robust ORMs and relational database management systems. <br>
 🚀 Skilled in DevOps (CI/CD automation, container orchestration, monitoring, observability) and DevSecOps (SAST, supply chain security and DAST). <br>
 🌐 Focused on building highly secure, efficient and resilient software ecosystems.</p>
